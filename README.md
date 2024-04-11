@@ -16,7 +16,7 @@ Welcome to the Forest Exploration Game! Embark on an adventurous journey through
 1. **Clone or Download the Repository:**
    * Use Git to clone the repository:
      ```bash
-     git clone [https://github.com/NarendraKumarSwami/ForestExplorationGame.git]
+     git clone https://github.com/NarendraKumarSwami/ForestExplorationGame.git
      ```
    * Alternatively, download the ZIP archive from your Git repository and extract it.
 
